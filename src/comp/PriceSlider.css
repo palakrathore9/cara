@@ -1,0 +1,23 @@
+
+/* PriceSlider.css */
+
+.price-slider {
+    margin: 20px 0;
+  }
+  
+  .price-slider .rc-slider-track {
+    background-color: #fed700;
+  }
+  
+  .price-slider .rc-slider-handle {
+    border: 2px solid #cd1e76;
+    background-color: #fed700;
+    width: 16px; /* Adjust the width of the handle */
+    height: 16px; /* Adjust the height of the handle */
+    margin-top: -8px;
+  }
+  
+  .price-slider .rc-slider-handle:hover {
+    border-color: #ff8c00;
+    box-shadow: 0 0 5px #ff8c00;
+  }
